@@ -18,7 +18,15 @@ The algorithm focuses on identifying the region of interest (ROI) within an imag
 - Matplotlib
 - NumPy
 
-### Installation
-1. Install required libraries:
-   ```bash
-   pip install opencv-python matplotlib numpy
+## Contributing
+We welcome contributions! If you have any ideas, bug fixes, or improvements, feel free to fork the repository and submit a pull request.
+
+### Steps to Contribute:
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Make your changes and commit them.
+4. Open a pull request describing your changes.
+
+## Contact
+For further inquiries, please contact the project maintainer at:
+- Website: [karthikmp.com](https://karthikmp.com)
